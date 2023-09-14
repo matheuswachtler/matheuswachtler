@@ -1,4 +1,4 @@
-<img align="right" width="250px" src="assets/avatar/hello_cut.png" style="max-width: 100%;">
+<img align="right" width="250px" src="assets/avatar/helloAvatar.png" style="max-width: 100%;">
 
 <br><br><br><br>
 
