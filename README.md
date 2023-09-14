@@ -1,4 +1,4 @@
-<img align="right" width="250px" src="https://github.com/matheuswachtler/matheuswachtler/assets/76985572/2575cf7d-cb53-4b13-80cf-136e4a060dcb" data-canonical-src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png" style="max-width: 100%;">
+<img align="right" width="250px" src="assets/avatar/hello_cut.png" style="max-width: 100%;">
 
 <br><br><br><br>
 
