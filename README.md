@@ -32,7 +32,10 @@ Official bugs creator, the more I learn and get frustrated, the more I love it a
 <h1 align="left"><a><svg> </svg></a> Technologies </h1>
 
 <code><a target="_blank" href="https://www.selenium.dev/documentation/webdriver/"><img width="60px" src="assets/technologies/seleniumIcon.png" title="Selenium" style="max-width: 100%;"></a></code>
-<code><a target="_blank"><img width="60px" src="" title="Selenium" style="max-width: 100%;"></a></code>
-<code><a target="_blank"><img width="60px" src="" title="Selenium" style="max-width: 100%;"></a></code>
+<code><a target="_blank" href="https://www.java.com/en/"><img width="60x" src="assets/technologies/javaIcon.png" title="java" style="max-width: 100%;"></a></code>
+<code><a target="_blank" href="https://github.com/"><img width="60px" src="assets/technologies/githubIcon.png" title="github" style="max-width: 100%;"></a></code>
+<code><a target="_blank" href="https://git-scm.com/"><img width="60px" src="assets/technologies/gitIcon.png" title="git" style="max-width: 100%;"></a></code>
+<code><a target="_blank" href="https://cucumber.io/"><img width="50px" src="assets/technologies/cucumberIcon.png" title="cucumber" style="max-width: 100%;"></a></code>
+
 
 
