@@ -31,4 +31,8 @@ Official bugs creator, the more I learn and get frustrated, the more I love it a
 
 <h1 align="left"><a><svg> </svg></a> Technologies </h1>
 
-<code><a target="_blank"><img width="40px" src="assets/logos/linkedInLogo.png" title="Selenium" style="max-width: 100%;"></a></code>
+<code><a target="_blank" href="https://www.selenium.dev/documentation/webdriver/"><img width="60px" src="assets/technologies/seleniumIcon.png" title="Selenium" style="max-width: 100%;"></a></code>
+<code><a target="_blank"><img width="60px" src="" title="Selenium" style="max-width: 100%;"></a></code>
+<code><a target="_blank"><img width="60px" src="" title="Selenium" style="max-width: 100%;"></a></code>
+
+
