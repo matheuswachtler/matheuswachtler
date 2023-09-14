@@ -8,15 +8,15 @@
 
   
   <a href="https://www.facebook.com/matheus.wachtler.9" rel="nofollow">
-    <img width="80px" src="assets/facebookLogo.png" alt="facebook" style="max-width: 100%;">
+    <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook" style="max-width: 100%;">
   </a>
 &nbsp &nbsp 
   <a href="https://www.instagram.com/_mathwachtler/" rel="nofollow">
-    <img width="80px" src="assets/Instagram.png" alt="Instagram" style="max-width: 100%;">
+    <img width="80px" src="assets/logos/instagramLogo.png" alt="Instagram" style="max-width: 100%;">
   </a>
 &nbsp &nbsp 
   <a href="https://www.linkedin.com/in/matheus-wachtler-a9a92911a/" rel="nofollow">
-    <img width="80px" src="assets/linkedInLogo.png" alt="linkedin" style="max-width: 100%;">
+    <img width="80px" src="assets/logos/linkedInLogo.png" alt="linkedin" style="max-width: 100%;">
   </a>
 </div>
 
