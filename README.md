@@ -39,3 +39,5 @@ Official bugs creator, the more I learn and get frustrated, the more I love it a
 <code><a target="_blank" href="https://www.jenkins.io/"><img width="60px" src="assets/technologies/jenkinsIcon.png" title="jenkins" style="max-width: 100%;"></a></code>
 <code><a target="_blank" href="https://junit.org/junit5/"><img width="60px" src="assets/technologies/junit5Icon.png" title="junit5" style="max-width: 100%;"></a></code>
 <code><a target="_blank" href="https://www.mysql.com/"><img width="60px" src="assets/technologies/mySqlIcon.png" title="mysql" style="max-width: 100%;"></a></code>
+
+<img align="right" width="250px" src="assets/avatar/assets/avatar/bodyAvatar.png" style="max-width: 100%;">
