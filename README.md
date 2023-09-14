@@ -5,7 +5,7 @@
 <div dir="auto">
  
 <h1 align="left"><a><svg> </svg></a>Matheus Wachtler</h1>
-  
+  <br><br>
   <a href="https://www.facebook.com/matheus.wachtler.9" rel="nofollow">
     <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook" style="max-width: 100%;">
   </a>
@@ -19,9 +19,7 @@
   </a>
 </div>
 
-<br><br><br>
-
-# Hi folks, how are you doing ? 
+<h1 align="left"><a><svg> </svg></a> Hi folks, how are you doing ? </h1>
 
 My name is Matheus. I'm 27 years old, and I live in São Paulo with my wife and two cats.
 
@@ -29,5 +27,8 @@ I graduated in Systems Analysis and Development, and I am passionate about progr
 
 Research-oriented, I am always looking for ways to improve my results.
 
-Addicted to challenges, my satisfaction comes from seeing the codes I've developed working perfectly.
+Official bugs creator, the more I learn and get frustrated, the more I love it all!
 
+<h1 align="left"><a><svg> </svg></a> Technologies </h1>
+
+<code><a target="_blank"><img width="40px" src="assets/logos/linkedInLogo.png" title="Selenium" style="max-width: 100%;"></a></code>
