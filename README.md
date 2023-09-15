@@ -1,47 +1,59 @@
-<img align="right" width="200px" src="assets/avatar/helloAvatar.png" style="max-width: 100%;">
+<img align="right" width="200px" src="assets/avatar/helloAvatar.png">
 
 <br><br>
 
-<div dir="auto">
+<div>
  
-<h1 align="left"><a><svg> </svg></a>Matheus Wachtler</h1>
+<h1 align="left">Matheus Wachtler</h1>
   <br><br>
+  &nbsp &nbsp
   <a href="https://www.facebook.com/matheus.wachtler.9">
-    <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook" style="max-width: 100%;">
+    <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook">
   </a>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
   <a href="https://www.instagram.com/_mathwachtler/">
-    <img width="80px" src="assets/logos/instagramLogo.png" alt="Instagram" style="max-width: 100%;">
+    <img width="80px" src="assets/logos/instagramLogo.png" alt="Instagram">
   </a>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
   <a href="https://www.linkedin.com/in/matheus-wachtler-a9a92911a/">
-    <img width="80px" src="assets/logos/linkedInLogo.png" alt="linkedin" style="max-width: 100%;">
+    <img width="80px" src="assets/logos/linkedInLogo.png" alt="linkedin">
   </a>
 </div>
 
+<img width="1200px" src="assets/gifs/snake.gif">
 
- <a>  <img width="1200px" src="assets/gifs/snake.gif" alt="snakegame" style="max-width: 100%;"> </a>
+<h1 align="left">"Hi folks, how are you doing ?</h1>
 
+<p align="left">My name is Matheus. I'm 27 years old, and I live in São Paulo with my wife and two cats.</p>
+<p align="left">I graduated in Systems Analysis and Development, and I am passionate about programming.</p>
+<p align="left">Research-oriented, I am always looking for ways to improve my results.</p>
+<p align="left">Official bugs creator, the more I learn and get frustrated, the more I love it all!</p>
 
-<h1 align="left"><a><svg> </svg></a> Hi folks, how are you doing ? </h1>
+<br>
 
-My name is Matheus. I'm 27 years old, and I live in São Paulo with my wife and two cats.
+<h1 align="left"> Technologies </h1>
 
-I graduated in Systems Analysis and Development, and I am passionate about programming.
+<code><a  href="https://www.selenium.dev/documentation/webdriver/"><img width="60px" src="assets/technologies/seleniumIcon.png" title="Selenium"></a></code>
+<code><a  href="https://www.java.com/en/"><img width="60x" src="assets/technologies/javaIcon.png" title="java"></a></code>
+<code><a  href="https://github.com/"><img width="60px" src="assets/technologies/githubIcon.png" title="github"></a></code>
+<code><a  href="https://git-scm.com/"><img width="60px" src="assets/technologies/gitIcon.png" title="git"></a></code>
+<code><a  href="https://cucumber.io/"><img width="50px" src="assets/technologies/cucumberIcon.png" title="cucumber"></a></code>
+<code><a  href="https://www.jenkins.io/"><img width="60px" src="assets/technologies/jenkinsIcon.png" title="jenkins"></a></code>
+<code><a  href="https://junit.org/junit5/"><img width="60px" src="assets/technologies/junit5Icon.png" title="junit5"></a></code>
+<code><a  href="https://www.mysql.com/"><img width="60px" src="assets/technologies/mySqlIcon.png" title="mysql"></a> </code>
 
-Research-oriented, I am always looking for ways to improve my results.
+<br>
 
-Official bugs creator, the more I learn and get frustrated, the more I love it all!
+<img align="right" width="400px" src="assets/avatar/bodyAvatar.png"></h1>
 
-<h1 align="left"><a><svg> </svg></a> Technologies </h1>
+<h1 align="left"> About Me </h1>
 
-<code><a target="_blank" href="https://www.selenium.dev/documentation/webdriver/"><img width="60px" src="assets/technologies/seleniumIcon.png" title="Selenium" style="max-width: 100%;"></a></code>
-<code><a target="_blank" href="https://www.java.com/en/"><img width="60x" src="assets/technologies/javaIcon.png" title="java" style="max-width: 100%;"></a></code>
-<code><a target="_blank" href="https://github.com/"><img width="60px" src="assets/technologies/githubIcon.png" title="github" style="max-width: 100%;"></a></code>
-<code><a target="_blank" href="https://git-scm.com/"><img width="60px" src="assets/technologies/gitIcon.png" title="git" style="max-width: 100%;"></a></code>
-<code><a target="_blank" href="https://cucumber.io/"><img width="50px" src="assets/technologies/cucumberIcon.png" title="cucumber" style="max-width: 100%;"></a></code>
-<code><a target="_blank" href="https://www.jenkins.io/"><img width="60px" src="assets/technologies/jenkinsIcon.png" title="jenkins" style="max-width: 100%;"></a></code>
-<code><a target="_blank" href="https://junit.org/junit5/"><img width="60px" src="assets/technologies/junit5Icon.png" title="junit5" style="max-width: 100%;"></a></code>
-<code><a target="_blank" href="https://www.mysql.com/"><img width="60px" src="assets/technologies/mySqlIcon.png" title="mysql" style="max-width: 100%;"></a></code>
+<div>
+ <p align="left"> 💻 Currently, I am working as a Mid-Level QA Analyst at Serasa Experian. </p>
+ <p align="left"> 📚 Proficiency in JAVA and other testing frameworks such as Selenium, JUnit, Cucumber, and Rest-Assured. </p>
+ <p align="left"> 😬 According to the results of some research, I have a choleric temperament. Therefore, I enjoy taking the lead and never lose sight of my goals. </p>
+ <p align="left"> ✈️ Speaking of goals, my biggest dream is to one day work and live in another country. </p>
+ <p align="left"> 🎮 In my free time, I'm an enthusiast of video games, and I also enjoy playing the guitar. </p>
+ <p align="left"> ⛪ I am a Christian, and I recently married the most beautiful woman in the world ❤️. </p>
+</div>
 
-<img align="right" width="400px" src="assets/avatar/bodyAvatar.png" style="max-width: 100%;">
