@@ -29,7 +29,7 @@
 <p align="left">My name is Matheus. I'm 27 years old, and I live in São Paulo with my wife and two cats.</p>
 <p align="left">I graduated in Systems Analysis and Development, and I am passionate about programming.</p>
 <p align="left">Research-oriented, I am always looking for ways to improve my results.</p>
-<p align="left">Official bugs creator, the more I learn and get frustrated, the more I love it all!</p>
+
 
 <br>
 
