@@ -6,18 +6,22 @@
  
 <h1 align="left"><a><svg> </svg></a>Matheus Wachtler</h1>
   <br><br>
-  <a href="https://www.facebook.com/matheus.wachtler.9" rel="nofollow">
+  <a href="https://www.facebook.com/matheus.wachtler.9">
     <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook" style="max-width: 100%;">
   </a>
-&nbsp &nbsp 
-  <a href="https://www.instagram.com/_mathwachtler/" rel="nofollow">
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
+  <a href="https://www.instagram.com/_mathwachtler/">
     <img width="80px" src="assets/logos/instagramLogo.png" alt="Instagram" style="max-width: 100%;">
   </a>
-&nbsp &nbsp 
-  <a href="https://www.linkedin.com/in/matheus-wachtler-a9a92911a/" rel="nofollow">
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
+  <a href="https://www.linkedin.com/in/matheus-wachtler-a9a92911a/">
     <img width="80px" src="assets/logos/linkedInLogo.png" alt="linkedin" style="max-width: 100%;">
   </a>
 </div>
+
+
+ <a>  <img width="1200px" src="assets/gifs/snake.gif" alt="snakegame" style="max-width: 100%;"> </a>
+
 
 <h1 align="left"><a><svg> </svg></a> Hi folks, how are you doing ? </h1>
 
