@@ -10,11 +10,9 @@
   <a href="https://www.facebook.com/matheus.wachtler.9">
     <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook">
   </a>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://www.instagram.com/_mathwachtler/">
     <img width="80px" src="assets/logos/instagramLogo.png" alt="Instagram">
   </a>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://www.linkedin.com/in/matheus-wachtler-a9a92911a/">
     <img width="80px" src="assets/logos/linkedInLogo.png" alt="linkedin">
   </a>
