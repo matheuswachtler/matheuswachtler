@@ -33,7 +33,7 @@
 
 <h1 align="left"> Technologies </h1>
 
-<br><br>
+<br>
 
 <code><a  href="https://www.selenium.dev/documentation/webdriver/"><img width="60px" src="assets/technologies/seleniumIcon.png" title="Selenium"></a></code>
 <code><a  href="https://www.java.com/en/"><img width="60x" src="assets/technologies/javaIcon.png" title="java"></a></code>
@@ -48,7 +48,7 @@
 
 <h1 align="left"> About Me </h1>
 
-<br><br>
+<br>
 
 <div>
  <p align="left"> 💻 Currently, I am working as a Mid-Level QA Analyst at Serasa Experian. </p>
