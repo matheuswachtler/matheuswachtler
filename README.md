@@ -46,8 +46,6 @@
 
 <br>
 
-<img align="right" width="400px" src="assets/avatar/bodyAvatar.png"></h1>
-
 <h1 align="left"> About Me </h1>
 
 <br><br>
