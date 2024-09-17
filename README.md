@@ -51,7 +51,7 @@
 <br>
 
 <div>
- <p align="left"> 💻 Currently, I am working as a Mid-Level QA Analyst at Serasa Experian. </p>
+ <p align="left"> 💻 Currently, I am working as a Sr QA Engineer at Avanade. </p>
  <p align="left"> 📚 Proficiency in JAVA and other testing frameworks such as Selenium, JUnit, Cucumber, and Rest-Assured. </p>
  <p align="left"> 😬 According to the results of some research, I have a choleric temperament. Therefore, I enjoy taking the lead and never lose sight of my goals. </p>
  <p align="left"> ✈️ Speaking of goals, my biggest dream is to one day work and live in another country. </p>
