@@ -5,7 +5,7 @@
 <div>
  
 <h1 align="left">Matheus Wachtler</h1>
-  <br><br>
+  <!-- <br><br> -->
   &nbsp &nbsp
   <a href="https://www.facebook.com/matheus.wachtler.9">
     <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook">
