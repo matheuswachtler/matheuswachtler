@@ -1,11 +1,12 @@
-<img align="right" width="200px" src="assets/avatar/helloAvatar.png">
 
 <br>
 
 <div>
  
-<h1 align="left" style="margin-bottom: 0;">Matheus Wachtler</h1>
+<h1 align="left" style="margin-bottom: 0;">Matheus Wachtler <img align="right" width="200px" src="assets/avatar/helloAvatar.png">
+</h1>
   <!-- <br><br> -->
+
 
   <a href="https://www.facebook.com/matheus.wachtler.9">
     <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook">
