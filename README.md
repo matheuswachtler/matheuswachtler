@@ -4,9 +4,9 @@
 
 <div>
  
-<h1 align="left">Matheus Wachtler</h1>
+<h1 align="left" style="margin-bottom: 0;">Matheus Wachtler</h1>
   <!-- <br><br> -->
-  &nbsp &nbsp
+
   <a href="https://www.facebook.com/matheus.wachtler.9">
     <img width="80px" src="assets/logos/facebookLogo.png" alt="facebook">
   </a>
