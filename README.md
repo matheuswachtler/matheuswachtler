@@ -1,6 +1,6 @@
 <img align="right" width="200px" src="assets/avatar/helloAvatar.png">
 
-<br><br>
+<br>
 
 <div>
  
@@ -22,7 +22,7 @@
 
 <h1 align="left">"Hi folks, how are you doing ?</h1>
 
-<br><br>
+<br>
 
 <p align="left">My name is Matheus. I'm 28 years old, and I live in São Paulo with my wife and two cats.</p>
 <p align="left">I graduated in Systems Analysis and Development, and I am passionate about programming.</p>
