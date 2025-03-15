@@ -1,5 +1,5 @@
 
-<img align="right" width="167px" style=" margin-top:-20px" src="assets/avatar/helloAvatar.png">
+<img align="right" width="150px" style=" margin-top:-20px" src="assets/avatar/helloAvatar.png">
 </br>
 </br>
 </br>
