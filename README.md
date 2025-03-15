@@ -41,7 +41,7 @@
 <div display="inline-block">
 <code><a  href="https://www.selenium.dev/documentation/webdriver/"><img width="60px" src="assets/technologies/seleniumIcon.png" title="Selenium"></a></code>
 <code><a  href="https://www.java.com/en/"><img width="60x" src="assets/technologies/javaIcon.png" title="java"></a></code>
-<code><a  href="https://appium.io/"><img width="80px" src="assets/technologies/appiumIcon.png" title="appium"></a></code>
+<code><a  href="https://appium.io/"><img width="80px" src="assets\technologies\appiumIcon.png" title="appium"></a></code>
 <code><a  href="https://github.com/"><img width="60px" src="assets/technologies/githubIcon.png" title="github"></a></code>
 <code><a  href="https://git-scm.com/"><img width="60px" src="assets/technologies/gitIcon.png" title="git"></a></code>
 <code><a  href="https://cucumber.io/"><img width="50px" src="assets/technologies/cucumberIcon.png" title="cucumber"></a></code>
