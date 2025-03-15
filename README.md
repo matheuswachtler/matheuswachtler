@@ -47,9 +47,9 @@
 <code><a  href="https://cucumber.io/"><img width="50px" src="assets/technologies/cucumberIcon.png" title="cucumber"></a></code>
 <code><a  href="https://junit.org/junit5/"><img width="60px" src="assets/technologies/junit5Icon.png" title="junit5"></a></code>
 <code><a  href="https://www.mysql.com/"><img width="60px" src="assets/technologies/mySqlIcon.png" title="mysql"></a> </code>
-<code><a  href="https://www.mysql.com/"><img width="55px" src="assets\technologies\restAssuredIcon.png" title="restassured"></a> </code>
-
+<code><a  href="https://rest-assured.io/"><img width="55px" src="assets\technologies\restAssuredIcon.png" title="restassured"></a> </code>
 </div>
+
 </br>
 
 ##	🙋  About Me
