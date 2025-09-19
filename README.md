@@ -60,5 +60,4 @@
  <p align="left"> ✈️ Speaking of goals, my biggest dream is to one day work and live in another country. </p>
  <p align="left"> 🎮 In my free time, I'm an enthusiast of video games, and I also enjoy playing the guitar. </p>
  <p align="left"> ⛪ I am a Christian, and I recently married the most beautiful woman in the world ❤️. </p>
- <p align="left"> 📰 Here is the link to my resume: https://matheuswachtler.github.io/Resume/. </p>
 </div>
